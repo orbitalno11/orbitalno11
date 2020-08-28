@@ -12,7 +12,8 @@ Mobile application and web developer.
 * <img src="https://github.com/orbitalno11/orbitalno11/blob/master/img/laravel-2.svg"  height="18px"> Laravel
 * <img src="https://github.com/orbitalno11/orbitalno11/blob/master/img/java-4.svg"  height="18px"> Java
 ### 📊 My Stats
-<code><img src="https://github-readme-stats.vercel.app/api?username=orbitalno11&show_icons=true&theme=graywhite"><code/>
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalno11&hide=HTML,css"></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=orbitalno11&show_icons=true&theme=graywhite"></code>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalno11&hide=HTML,css">
+</code>
 ### 🌎 My website
 [orbitalno11.github.io](https://orbitalno11.github.io/)
